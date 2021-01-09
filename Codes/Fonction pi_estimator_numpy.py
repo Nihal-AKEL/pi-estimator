@@ -18,3 +18,6 @@ def pi_estimator_numpy(n):
     pi=(float(n_in) /n) * 4
     print ("Le temps de calcul est de: ", t_cal ,". Pi est éstimé à: ",pi)
     return  pi
+#Valeurs de pi pour deux n : 
+pi_estimator_numpy(100000)
+pi_estimator_numpy(1000000)
