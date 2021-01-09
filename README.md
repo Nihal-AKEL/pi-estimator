@@ -1,2 +1,2 @@
 # pi-estimator
-Estimation de pi par pyspark et numpy
+Estimation de pi par pyspark et numpy.
