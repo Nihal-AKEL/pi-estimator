@@ -15,5 +15,5 @@ Pour n = 1.000.000 : <br />
 | Valeurs de pi | 3,14032 | 3,14117 |
 | Ecart % Math.pi en val abs| -0,04%| -0,01% |<br />
 
-On remarque que l'estimation de pi est plus précise.
+On remarque que pour n plus grande l'estimation de pi est plus précise.
 
