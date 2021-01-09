@@ -27,3 +27,7 @@ def pi_estimator_spark(n):
 ...     t_cal=np.round(time()-t,2)
 ...     print ("Le temps de calcul est de: ", t_cal ,". Pi est éstimé à: ",pi)
 ...     return pi
+
+# Valeurs de pi pour deux n différents :
+pi_estimator_spark(100000)
+pi_estimator_spark(1000000)
