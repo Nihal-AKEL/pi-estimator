@@ -7,7 +7,7 @@ Comparaison des performances: <br />
 | Valeurs de pi | 3,1442 | 3,14068 |
 | Ecart % Math.pi en val abs| 0,08%| 0,02% |<br />
 
-Pour n = 1.000.000: <br />
+Pour n = 1.000.000 : <br />
 | n=1.000.000 | Spark | Numpy |
 | :---: | :---: | :---: |
 | Temps d'execution en s | 11,15 | 1,09 |
